@@ -1,0 +1,1 @@
+cc -std=c99 -Wall filename_to_compile.c -o filename_of_exe
